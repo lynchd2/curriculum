@@ -137,6 +137,7 @@ Remember way back in the warm-up when you played with the Flickr API?  Now it's 
 * [AtActionPark's solution - With fix for ssl error on windows](https://github.com/AtActionPark/odin_flickr_api_app)
 * [Jeremy Mauzy's solution](https://github.com/apositivejam/the_odin_project/tree/master/flickr_api)
 * [Tomislav Mikulin's solution](https://github.com/MrKindle85/odin-flickr-api)
+* [lynchd2's solution](https://github.com/lynchd2/TOP-ruby-on-rails/tree/master/odin-photo-feeder)
 * Add your solution above this line!
 
 
